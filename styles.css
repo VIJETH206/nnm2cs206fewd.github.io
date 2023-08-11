@@ -1,0 +1,22 @@
+
+.prx1{
+        background-color:orange;
+        text-align:center;
+        border-style: dashed;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.prx2{
+        background-color:rgb(41, 233, 51);
+        text-align:left;
+        border-style: dashed;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+.prx3{
+        background-color:rgb(64, 24, 245);
+        text-align:right;
+        border-style: dashed;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+.c9{
+        text-align:center;
+    }
